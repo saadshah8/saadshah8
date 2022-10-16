@@ -19,6 +19,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=saadshah8&show_icons=true&locale=en" alt="saadshah8" />&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadshah8&" alt="saadshah8" /></p>
-
-<p></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=saadshah8&show_icons=true&locale=en" alt="saadshah8" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadshah8&" alt="saadshah8" /></p>
