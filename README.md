@@ -1,9 +1,24 @@
-![MasterHead](https://images.squarespace-cdn.com/content/v1/56dd9af5e707eb815a7f9c86/1466065681597-RX7I2YGCP4O7OPM1GLD8/bg-landscape-skeletor-dark.png?format=2500w)
-<h1 align="center">Hi , I'm Muhammad Saad Ali Shah</h1>
-<h3 align="center">Computer Systems Engineering | ML/DL | Cloud Computing</h3>
+# Muhammad Saad Ali Shah
 
-- I’m currently learning ML and Cloud Computing
-  
-- How to reach me **saadcse88@gmail.com**
+Computer Systems Engineer | ML Engineer
 
-- Connect with me on LinkedIn : [**Muhammad** **Saad** **Ali** **Shah**](https://www.linkedin.com/in/muhammad-saad-ali-shah-766226253)
+## About Me
+
+I'm a Computer Systems Engineer passionate about Machine Learning and cloud computing. Currently working in Generative AI.
+
+## Interests
+
+- Cloud Computing (AWS)
+- Data Science and AI/ML
+
+## Skills
+
+- Programming: Python, C++
+- Cloud Platforms: AWS
+- Version Control: Git
+
+## Get in touch
+
+- LinkedIn: [**Muhammad** **Saad** **Ali** **Shah**](https://www.linkedin.com/in/muhammad-saad-ali-shah-766226253)
+- Email: saadcse88@gmail.com
+- GitHub: [saadshah8](https://github.com/saadshah8)
