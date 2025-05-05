@@ -21,4 +21,4 @@ I'm a Computer Systems Engineer passionate about Machine Learning and cloud comp
 
 - LinkedIn: [**Muhammad** **Saad** **Ali** **Shah**](https://www.linkedin.com/in/muhammad-saad-ali-shah-766226253)
 - Email: saadcse88@gmail.com
-- GitHub: [saadshah8](https://github.com/saadshah8)
+<!-- - GitHub: [saadshah8](https://github.com/saadshah8) -->
