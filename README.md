@@ -1,4 +1,4 @@
-## Hi there, I'm Muhammad Saad Ali Shah 👋
+## Hi, I'm Muhammad Saad Ali Shah 👋
 
 <div align="center">
 
