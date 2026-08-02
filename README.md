@@ -1,49 +1,56 @@
-# Hi there, I'm Muhammad Saad Ali Shah 👋
+## Hi there, I'm Muhammad Saad Ali Shah 👋
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+LLM+Systems;Multi-Agent+Architectures;RAG+%26+Knowledge-Augmented+AI;Published+Researcher)](https://git.io/typing-svg)
 
+**Forward Deployed AI Engineer**  ·  Agentic Systems, LLMs & Full-Stack Delivery
 
 </div>
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm an **AI Engineer** specializing in production-scale **LLM systems**, **multi-agent architectures**, and **knowledge-augmented AI**. Currently building autonomous conversational platforms with Advanced RAG and agentic workflows.
+I build production agentic systems and own them end to end, from the behaviour of the agent itself down to the data pipelines and cloud infrastructure keeping it running. My work spans Python and TypeScript across backend and UI, AWS underneath, and multi-agent RAG built on Anthropic Claude, OpenAI and Google Gemini over graph and vector stores.
 
-- 🎓 Computer Systems Engineer
-- 🔭 Working on multi-agent orchestration and LLM coordination frameworks
-- 🧠 Research interests: RAG systems, agent coordination, knowledge-augmented generation
+Most of what I build starts as a system design problem, deciding how the pieces talk to each other, where state lives and what happens when one of them fails. I care about agents that behave predictably, guardrails that live in code rather than in prompts, and owning a feature from that first design decision through to what runs in front of customers.
 
+*Also comfortable around LLM-as-judge evaluation, real-time human handoff, multi-channel messaging platforms, commerce catalog integration, and event-driven pipelines, from building on a large multi-tenant conversational AI platform.*
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### AI/ML & LLMs
-`Python` • `LangChain` • `OpenAI` • `Anthropic` • `Perplexity` • `Groq` • `LlamaIndex` • `HuggingFace` 
+**AI/ML & LLMs**
+`Python` • `Anthropic Claude` • `OpenAI` • `Google Gemini` • `LangChain` • `LlamaIndex` • `Multi-Agent Systems` • `RAG` • `LangSmith` 
 
-### Backend & Databases
-`FastAPI` • `MongoDB` • `Neo4j` • `Docker`
+**Backend & UI**
+`FastAPI` • `TypeScript` • `React` • `WebSockets` • `Docker` • `System Design` • `Event-Driven Architecture`
 
-### Cloud & Infrastructure
-`AWS` • `Lambda`
+**Data & Cloud**
+`Neo4j` • `PostgreSQL` • `DynamoDB` • `MongoDB` • `Vector Search` • `AWS`
 
+### 📂 Selected Work
 
-## 📫 Connect With Me
+**[GLUCOSE](https://www.five-whys.com/glucose)** • multi-agent conversational platform for autonomous customer engagement, deployed with enterprise clients across retail, logistics and healthcare. `Python` `TypeScript` `AWS` `Neo4j`
+
+**[Insika AI](https://inovient.io/insika-ai/)** • multi-agent marketing intelligence platform, built end to end. `Python` `FastAPI` `LlamaIndex` `MongoDB`
+
+**[PsyRA](https://github.com/saadshah8/PsyRA_Application)** • retrieval-augmented dialogue system for mental health support, basis of a peer-reviewed publication. `Python` `LangChain` `FAISS`
+
+**[Neural Network from Scratch](https://github.com/saadshah8/nn-digits-scratch)** • multi-layer perceptron in pure NumPy with analytical backpropagation and bootstrap confidence intervals. `Python` `NumPy` `pytest`
+
+**[Serverless Log Processing](https://github.com/saadshah8/AWS-stepfunc-log-processor)** • AWS log ETL replacing a managed crawler with Step Functions. `AWS Lambda` `Step Functions` `Athena`
+
+### 📫 Connect With Me
 
 <div align="left">
-  
 
-• `LinkedIn:` [Muhammad Saad Ali Shah](https://www.linkedin.com/in/muhammad-saad-ali-shah) 
+• `LinkedIn:` [Muhammad Saad Ali Shah](https://www.linkedin.com/in/muhammadsaadshah/)
 
-• `Email:` saadcse88@gmail.com 
-
+• `Email:` saadcse88@gmail.com
 
 </div>
 
 ---
 
 <div align="center">
-  
+
 💡 *"Building intelligent systems that bridge knowledge and generation"*
 
 </div>
