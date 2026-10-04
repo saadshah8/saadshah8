@@ -12,7 +12,7 @@ I build production agentic systems and own them end to end, from the behaviour o
 
 Most of what I build starts as a system design problem, deciding how the pieces talk to each other, where state lives and what happens when one of them fails. I care about agents that behave predictably, guardrails that live in code rather than in prompts, and owning a feature from that first design decision through to what runs in front of customers.
 
-*Also comfortable around LLM-as-judge evaluation, real-time human handoff, multi-channel messaging platforms, commerce catalog integration, and event-driven pipelines, from building on a large multi-tenant conversational AI platform.*
+*Also comfortable around LLM-as-judge evaluation, real-time human handoff, embeddable web agents, multi-channel messaging platforms, commerce catalog integration, and event-driven pipelines, from building on a large multi-tenant conversational AI platform.*
 
 ### 🛠️ Tech Stack
 
@@ -42,6 +42,8 @@ Most of what I build starts as a system design problem, deciding how the pieces 
 <div align="left">
 
 • `LinkedIn:` [Muhammad Saad Ali Shah](https://www.linkedin.com/in/muhammadsaadshah/)
+
+• `Website:` [saadshah8.github.io](https://saadshah8.github.io)
 
 • `Email:` saadcse88@gmail.com
 
